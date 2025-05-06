@@ -10,5 +10,4 @@ o	Division
 #In the File "Name.py" :-
 1.  Takes a user's first name and last name as input.
 2.  Concatenates the first name and last name into a full name.
-3.  Prints a personalized greeting message using the full name.
-![image](https://github.com/user-attachments/assets/2ef1bd17-27f3-4e51-9253-4f520a43c191)
+3.  Prints a personalized greeting message using the full name.![image](https://github.com/user-attachments/assets/2ef1bd17-27f3-4e51-9253-4f520a43c191)
