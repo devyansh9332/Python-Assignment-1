@@ -1,4 +1,4 @@
-#In the File "Maths.py" :-
+#In the File "Maths.py" :-\n
 1.Takes two numbers as input from the user.
 2.Performs the basic mathematical operations on these two numbers:
 o	Addition
